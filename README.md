@@ -230,7 +230,7 @@ The Excel workbook is approximately **50 MB**, so the original `.xlsx` file is h
 
 ## 👤 Project Author
 
-**Your Name**
+**OM TIWARI**
 
 Data Analytics | Business Intelligence | Excel Dashboarding
 
